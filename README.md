@@ -1,6 +1,6 @@
-# ESP8266-XR-Console-Remote
+# Controlling a Behringer X-Air console with a Wemos D1
 
-Code From this article : https://electronicfields.wordpress.com/2020/01/28/controlling-a-behringer-x-air-console-with-a-wemos-d1/
+Code from this article : https://electronicfields.wordpress.com/2020/01/28/controlling-a-behringer-x-air-console-with-a-wemos-d1/
 
 The Midas MR / Behringer XR digital mixing consoles are cheap and powerful. With no tangible control surface doing quick and current actions can be inconvenient.
 
