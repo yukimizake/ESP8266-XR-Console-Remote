@@ -11,3 +11,5 @@ After having fun with C# to control my XR12 console on a Windows computer, I dec
 I chose the Arduino environment to program my Wemos D1 using the CNMAT OSC Arduino library developed by Yotam Mann and Adrian Freed.
 
 Be careful, some GPIOs on a ESP-12e/Wemos D1 board must match some defined states to be able to boot up.
+
+![Preview Image](https://electronicfields.files.wordpress.com/2020/01/82161215_2720578344655666_5196383306823761920_o.jpg)
